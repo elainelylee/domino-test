@@ -35,3 +35,5 @@ import mlflow
 
         # log metrics
         mlflow.log_metrics({"log_loss": loss, "accuracy": acc})
+        
+        test
